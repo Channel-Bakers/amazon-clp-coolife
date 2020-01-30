@@ -1,15 +1,15 @@
 'use strict';
 
 import common from './common';
-import onePiece from './onePiece';
-import luggageSet from './luggageSet';
+import onepiece from './onePiece';
+import luggageset from './luggageSet';
 import business from './business';
-import softSide from './softSide';
+import softside from './softSide';
 
 export default {
 	common,
-	onePiece,
-	luggageSet,
+	onepiece,
+	luggageset,
 	business,
-	softSide,
+	softside,
 };
