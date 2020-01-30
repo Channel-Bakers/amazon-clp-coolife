@@ -92,13 +92,6 @@ export default {
 						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
 					active: false,
 				},
-				{
-					name: 'lake-blue',
-					hex: '#1c1c26',
-					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-					active: false,
-				},
 			],
 			dropdowns: [
 				{

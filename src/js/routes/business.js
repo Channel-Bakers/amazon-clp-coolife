@@ -126,6 +126,13 @@ export default {
 			},
 			colors: [
 				{
+					name: 'gray',
+					hex: '#3a3742',
+					image:
+						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+					active: true,
+				},
+				{
 					name: 'wine-red',
 					hex: '#70707a',
 					image:
@@ -138,13 +145,6 @@ export default {
 					image:
 						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
 					active: false,
-				},
-				{
-					name: 'gray',
-					hex: '#3a3742',
-					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-					active: true,
 				},
 				{
 					name: 'silver',
@@ -197,7 +197,7 @@ export default {
 					hex: '#70707a',
 					image:
 						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-					active: true,
+					active: false,
 				},
 				{
 					name: 'caribbean-blue',
