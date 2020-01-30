@@ -1,10 +1,10 @@
 'use strict';
 
 import Builder from '../util/Builder';
-import * as onePiece1 from '../data/asins/onePiece/onePiece1.json';
-import * as onePiece2 from '../data/asins/onePiece/onePiece2.json';
-import * as onePiece3 from '../data/asins/onePiece/onePiece3.json';
-import * as onePiece4 from '../data/asins/onePiece/onePiece4.json';
+import * as onePiece1 from './../../../data/asins/1-30-2020/onePiece/onePiece1.json';
+import * as onePiece3 from './../../../data/asins/1-30-2020/onePiece/onePiece3.json';
+import * as onePiece2 from './../../../data/asins/1-30-2020/onePiece/onePiece2.json';
+import * as onePiece4 from './../../../data/asins/1-30-2020/onePiece/onePiece4.json';
 
 export default {
 	init() {

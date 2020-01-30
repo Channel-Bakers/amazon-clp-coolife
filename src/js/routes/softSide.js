@@ -1,10 +1,9 @@
 'use strict';
 
 import Builder from '../util/Builder';
-import * as softside1 from '../data/asins/softside/softside1.json';
-import * as softside2 from '../data/asins/softside/softside2.json';
-import * as softside3 from '../data/asins/softside/softside3.json';
-import * as softside4 from '../data/asins/softside/softside4.json';
+import * as softside1 from './../../../data/asins/1-30-2020/softside/softside1.json';
+import * as softside2 from './../../../data/asins/1-30-2020/softside/softside2.json';
+import * as softside3 from './../../../data/asins/1-30-2020/softside/softside3.json';
 
 export default {
 	init() {

@@ -1,10 +1,10 @@
 'use strict';
 
 import Builder from '../util/Builder';
-import * as luggageSet1 from '../data/asins/luggageSet/luggageSet1.json';
-import * as luggageSet2 from '../data/asins/luggageSet/luggageSet2.json';
-import * as luggageSet3 from '../data/asins/luggageSet/luggageSet3.json';
-import * as luggageSet4 from '../data/asins/luggageSet/luggageSet4.json';
+import * as luggageSet1 from './../../../data/asins/1-30-2020/luggageSet/luggageSet1.json';
+import * as luggageSet2 from './../../../data/asins/1-30-2020/luggageSet/luggageSet2.json';
+import * as luggageSet3 from './../../../data/asins/1-30-2020/luggageSet/luggageSet3.json';
+import * as luggageSet4 from './../../../data/asins/1-30-2020/luggageSet/luggageSet4.json';
 
 export default {
 	init() {

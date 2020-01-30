@@ -1,10 +1,10 @@
 'use strict';
 
 import Builder from '../util/Builder';
-import * as business1 from '../data/asins/business/business1.json';
-import * as business2 from '../data/asins/business/business2.json';
-import * as business3 from '../data/asins/business/business3.json';
-import * as business4 from '../data/asins/business/business4.json';
+import * as business1 from './../../../data/asins/1-30-2020/business/business1.json';
+import * as business2 from './../../../data/asins/1-30-2020/business/business2.json';
+import * as business3 from './../../../data/asins/1-30-2020/business/business3.json';
+import * as business4 from './../../../data/asins/1-30-2020/business/business4.json';
 
 export default {
 	init() {
