@@ -60,6 +60,8 @@ export default class Dropdown {
 				: this._getActiveColor()
 			: null;
 
+		console.log(`Active Color for builder ${this.params.id}:`, ACTIVE_COLOR);
+
 		const OPTIONS = COLORS
 			? this.params.data[ACTIVE_COLOR.name || ACTIVE_COLOR]
 			: this.params.data;
