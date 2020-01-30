@@ -29,7 +29,7 @@ export default class Dropdown {
 	}
 
 	_getActiveColor() {
-		return this.params.builder.params.colors.reduce(
+		return this.params.builder.params.colors.find(
 			(color) => color.active && color
 		);
 	}

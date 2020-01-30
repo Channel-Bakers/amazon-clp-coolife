@@ -1,7 +1,7 @@
 'use strict';
 
 import {getCookie} from '../util/helpers/cookies';
-import {getCurrentAmazonTab, hideAmazonNodes, removeAmazonNodes} from '../util/helpers/amazon';
+import {getCurrentAmazonTab, hideAmazonNodes} from '../util/helpers/amazon';
 
 export default {
 	init() {
