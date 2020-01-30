@@ -13,7 +13,7 @@ const init = () => {
 	if (isAmazon()) {
 		routes['common'].init();
 
-		const PRIMARY_ROUTE = 'suits';
+		const PRIMARY_ROUTE = 'onePiece';
 		const CURRENT_ROUTE =
 			(window.CB && window.CB.tab) || getCurrentAmazonTab();
 
