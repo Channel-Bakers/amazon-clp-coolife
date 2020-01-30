@@ -55,13 +55,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'luggageSet-1',
-			// 		data: BUILDER_1_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'luggageSet-1',
+					data: BUILDER_1_DATA,
+				},
+			],
 		};
 
 		const BUILDER_1 = new Builder({
@@ -101,13 +101,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'luggageSet-2',
-			// 		data: BUILDER_2_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'luggageSet-2',
+					data: BUILDER_2_DATA,
+				},
+			],
 		};
 
 		const BUILDER_2 = new Builder({
@@ -147,13 +147,13 @@ export default {
 					active: true,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'luggageSet-3',
-			// 		data: BUILDER_3_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'luggageSet-3',
+					data: BUILDER_3_DATA,
+				},
+			],
 		};
 
 		const BUILDER_3 = new Builder({
@@ -200,13 +200,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'luggageSet-4',
-			// 		data: BUILDER_4_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'luggageSet-4',
+					data: BUILDER_4_DATA,
+				},
+			],
 		};
 
 		const BUILDER_4 = new Builder({

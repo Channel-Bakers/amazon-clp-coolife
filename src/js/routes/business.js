@@ -55,13 +55,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'business-1',
-			// 		data: BUILDER_1_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'business-1',
+					data: BUILDER_1_DATA,
+				},
+			],
 		};
 
 		const BUILDER_1 = new Builder({
@@ -101,18 +101,18 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'business-2',
-			// 		data: BUILDER_2_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'business-2',
+					data: BUILDER_2_DATA,
+				},
+			],
 		};
 
-		// const BUILDER_2 = new Builder({
-		// 	...BUILDER_2_OPTIONS,
-		// });
+		const BUILDER_2 = new Builder({
+			...BUILDER_2_OPTIONS,
+		});
 
 		// One Piece #3
 		const BUILDER_3_DATA = business3.default;
@@ -161,13 +161,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'business-3',
-			// 		data: BUILDER_3_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'business-3',
+					data: BUILDER_3_DATA,
+				},
+			],
 		};
 
 		const BUILDER_3 = new Builder({
@@ -214,13 +214,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'business-4',
-			// 		data: BUILDER_4_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'business-4',
+					data: BUILDER_4_DATA,
+				},
+			],
 		};
 
 		const BUILDER_4 = new Builder({

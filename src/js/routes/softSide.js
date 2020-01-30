@@ -47,13 +47,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'softside-1',
-			// 		data: BUILDER_1_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'softside-1',
+					data: BUILDER_1_DATA,
+				},
+			],
 		};
 
 		const BUILDER_1 = new Builder({
@@ -100,13 +100,13 @@ export default {
 					active: false,
 				},
 			],
-			// dropdowns: [
-			// 	{
-			// 		title: `Slim Fit {{COLOR}} Jacket`,
-			// 		id: 'softside-2',
-			// 		data: BUILDER_2_DATA,
-			// 	},
-			// ],
+			dropdowns: [
+				{
+					title: `Slim Fit {{COLOR}} Jacket`,
+					id: 'softside-2',
+					data: BUILDER_2_DATA,
+				},
+			],
 		};
 
 		const BUILDER_2 = new Builder({
