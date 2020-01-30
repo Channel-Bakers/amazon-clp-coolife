@@ -60,16 +60,22 @@ export default class Dropdown {
 				: this._getActiveColor()
 			: null;
 
-		console.log(`Active Color for builder ${this.params.id}:`, ACTIVE_COLOR);
-
 		const OPTIONS = COLORS
 			? this.params.data[ACTIVE_COLOR.name || ACTIVE_COLOR]
 			: this.params.data;
 
 		const OPTIONS_SORTED = await this._sortOptions(OPTIONS);
 
+		if (OPTIONS_SORTED.length <= 1) {
+			this.elements.select.style.display = 'none';
+
+			return this;
+		}
+
 		try {
 			OPTIONS_SORTED.forEach((option) => {
+				if (!option.size) return;
+
 				const OPTION_ELEMENT = document.createElement('option');
 				OPTION_ELEMENT.value = option.size;
 				OPTION_ELEMENT.innerText = option.size;

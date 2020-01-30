@@ -76,7 +76,7 @@ export default {
 			caption:
 				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
 			image: {
-				position: 'left',
+				position: 'right',
 			},
 			colors: [
 				{
@@ -182,7 +182,7 @@ export default {
 			caption:
 				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
 			image: {
-				position: 'left',
+				position: 'right',
 			},
 			colors: [
 				{
