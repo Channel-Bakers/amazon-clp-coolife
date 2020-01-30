@@ -1,5 +1,5 @@
 module.exports = {
 	nodeEnv: 'development',
-	clientPrefix: 'ck',
-	merchantID: 'ATVPDKIKX0DER'
+	clientPrefix: 'coolife',
+	merchantID: 'AYUX7JUK6SUG'
 };
