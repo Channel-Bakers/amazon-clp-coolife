@@ -1,38 +1,46 @@
-[
-	{
-		"asin": "B06XVSR3JZ",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight (blue+sliver)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81r%2BjfGp--L._AC_SX425_.jpg",
-		"color": "Blue + Silver",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "bPI2WtAf8MAcuU3dqTcovy7YMVTFl29OX4wpQel%2FHO%2BAhJ1IS246WO%2Fs97T%2Fi5ZBf%2F9OMcow5j4DI2OtqZI9pDDHTV98bUWyhrZvbXdKwemSer4JBpkhGlkSe5zL6BW3oK3V1YuGyKuO42zBAqsgO1pia%2FaymgYs"
-	},
-	{
-		"asin": "B06ZXSPJMV",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81H1NGCYtXL._AC_SX425_.jpg",
-		"color": "Black + Blue",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "8wV65EM4anPjyMqXdMsJd2jnHl9fx1QLMyrOZLXEN%2BXASIo4M%2F%2BzV%2FQPxhWVXyR%2Fa9lQJzETAyXXK%2Fgr4zvKOY9EHZv%2BVpUL3lgbDpxKpdFCKIgDeQhFAY7Mo4VFMeeut5oYU3jP0ky7xW8z9FrDcqUp9L0uk24a"
-	},
-	{
-		"asin": "B06XZ3B97S",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight (black+red)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81gbgXv6R8L._SX522_.jpg",
-		"color": "Black + Red",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "M1RpqrXXYRMlQPFkAV7dnPVtMT8Yh1ldfEeqTrQkTZjd3ru%2Fon4GTyMt5k52CRna1RRPzqPe9K%2Bv4F58L7ZEtz%2FbbxT4a%2Bog6W%2F3klJ76s%2B9hEzmWfAo6bggHuMDsRdERycBMbOTawrY%2BmkUpnds3T94KIbWA8bM"
-	},
-	{
-		"asin": "B06XW4JX96",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight (purple+sliver)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81h9gvxmRHL._AC_SX425_.jpg",
-		"color": "Purple + Silver",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "KepqNaf8aKt78CqCAJxgXKsfx8PjTd6UnsPm8OX9mdJVDXkNhksqBX7Jz%2BouI%2FCfpB%2FSS4PsuXcWXI7EvZdh1xaHYt4zfCjr8QzZRfYol0th8pHAHGphUe%2FxVv3eJYtOFdb%2BZ%2BuiwuPgqaFn1TVLdh1LUTFX5RNE"
-	}
-]
+{
+	"blue/silver": [
+		{
+			"asin": "B06XVSR3JZ",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight (blue+sliver)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81r%2BjfGp--L._AC_SX425_.jpg",
+			"color": "Blue + Silver",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "bPI2WtAf8MAcuU3dqTcovy7YMVTFl29OX4wpQel%2FHO%2BAhJ1IS246WO%2Fs97T%2Fi5ZBf%2F9OMcow5j4DI2OtqZI9pDDHTV98bUWyhrZvbXdKwemSer4JBpkhGlkSe5zL6BW3oK3V1YuGyKuO42zBAqsgO1pia%2FaymgYs"
+		}
+	],
+	"black/blue": [
+		{
+			"asin": "B06ZXSPJMV",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81H1NGCYtXL._AC_SX425_.jpg",
+			"color": "Black + Blue",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "8wV65EM4anPjyMqXdMsJd2jnHl9fx1QLMyrOZLXEN%2BXASIo4M%2F%2BzV%2FQPxhWVXyR%2Fa9lQJzETAyXXK%2Fgr4zvKOY9EHZv%2BVpUL3lgbDpxKpdFCKIgDeQhFAY7Mo4VFMeeut5oYU3jP0ky7xW8z9FrDcqUp9L0uk24a"
+		}
+	],
+	"black/red": [
+		{
+			"asin": "B06XZ3B97S",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight (black+red)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81gbgXv6R8L._SX522_.jpg",
+			"color": "Black + Red",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "M1RpqrXXYRMlQPFkAV7dnPVtMT8Yh1ldfEeqTrQkTZjd3ru%2Fon4GTyMt5k52CRna1RRPzqPe9K%2Bv4F58L7ZEtz%2FbbxT4a%2Bog6W%2F3klJ76s%2B9hEzmWfAo6bggHuMDsRdERycBMbOTawrY%2BmkUpnds3T94KIbWA8bM"
+		}
+	],
+	"purple/silver": [
+		{
+			"asin": "B06XW4JX96",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Softshell lightweight (purple+sliver)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81h9gvxmRHL._AC_SX425_.jpg",
+			"color": "Purple + Silver",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "KepqNaf8aKt78CqCAJxgXKsfx8PjTd6UnsPm8OX9mdJVDXkNhksqBX7Jz%2BouI%2FCfpB%2FSS4PsuXcWXI7EvZdh1xaHYt4zfCjr8QzZRfYol0th8pHAHGphUe%2FxVv3eJYtOFdb%2BZ%2BuiwuPgqaFn1TVLdh1LUTFX5RNE"
+		}
+	]
+}

@@ -1,56 +1,63 @@
-[
-	{
-		"asin": "B074WN48Y3",
-		"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (M(24in), Wine red)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71nEYr4WDbL._SX425_.jpg",
-		"color": "Wine red",
-		"size": "M(24in)",
-		"price": "$109.99",
-		"offeringID": "NQbh5ejf2MHpn90azAV1%2BUyKKYDzq1HVvpQNyZtOdBcohVhVql%2F7xhwmOXg6IJIoW%2F6%2BEcvOONmOacLvq5yFa9ba5R7pkEbQrDCr05eq53SKMwPOMxATcCtwJ2viX4ILXOcvmuYR8imXNPigVRYKUUvVYbeapnTw"
-	},
-	{
-		"asin": "B074WNMPZ3",
-		"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (L(28in), Wine red)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71rNInuPK5L._AC_SX425_.jpg",
-		"color": "Wine red",
-		"size": "L(28in)",
-		"price": "$139.99",
-		"offeringID": "99osClFg4xKCpZ8%2FrhdIE7xGUTSfzGSwsJFWmzx2pihOYZNilGQBgT2R%2BT519qeYF6MHDonLZbLquHCBi9yUwVTXMQSig9EcvdhwMEIRmSx9j1GMFqMpNiANQych0D%2BO0FFfQbEyl1dU5%2B%2B9nX2NH3peqrTS0V%2Fx"
-    },
-	{
-		"asin": "B074WL99PK",
-		"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (M(24in), Blue)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71zgI5w6MdL._AC_SX425_.jpg",
-		"color": "Blue",
-		"size": "M(24in)",
-		"price": "$109.99",
-		"offeringID": "hWil%2F%2BLkZ4Z2k1xfni8hdMhDCSILpgYjYXuF9AM4kq1BrKYbAA57rJ65eBjH8E1WzHEglKXdjMjcwNifwvMGg4tmhZ4r6eyCnuXpi3Bs6AtH5ig90VRV3MBOTi47LqeyAwYeZ4jFcsKL2TwkqgYJYsDsXSgSjl9J"
-	},
-	{
-		"asin": "B074WQ3WVH",
-		"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (L(28in), Blue)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71zgI5w6MdL._AC_SX425_.jpg",
-		"color": "Blue",
-		"size": "L(28in)",
-		"price": "$139.99",
-		"offeringID": "vhurAEIOuS%2BrSU3yYNtCWeYSHG%2BYgg%2B%2F%2BKKgJVx5REHK8WIh%2FkoTe8X92XAKv4G%2F7sKPxxi4%2Bo6mHnHV0rm5X3JA6Nx7S8tfp5%2FSNcUS4JWO7PSeDoaSpo4MdOkgsZZOrcAYKqQ8P5BWewLna1%2FEsjTsV9aZhtFj"
-	},
-	{
-		"asin": "B074WP7VC7",
-		"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (M(24in), Black)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71F7nW0YPSL._AC_SX425_.jpg",
-		"color": "Black",
-		"size": "M(24in)",
-		"price": "$109.99",
-		"offeringID": "XdEYTQZM%2BF%2BYGmHrFLHV5%2BUbnQCd31c4bjHyMcKRGlFTefbj0cX9BudMibEj%2BwLY67wPEOjQtMH2SUk5xRF0KkLNCP9qMycS7Pp%2Fr5IEiHDQMVfDZKqrCHKwKELP9FtOCA4ZrAqw2iV7ehZCOt%2FzQ3VRo%2BQlQRMX"
-	},
-	{
-		"asin": "B074WPGX12",
-		"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (L(28in), Black)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71F7nW0YPSL._SX425_.jpg",
-		"color": "Black",
-		"size": "L(28in)",
-		"price": "$139.99",
-		"offeringID": "QexvpHnqr5VMJusaruvUjpdEikUqbq%2BIbVM%2BsPogHNLwg5csdUBoPQxJSJFgQnTHX3d3BhLjuHPFpYYjFNnBTXIhX21NJwgHqmxaGGJQcaFiS2BfDD%2FepP%2FCendSwIr1j0g3krXbxFnNL4aj%2FC2glKviXB6krp%2Bk"
-	}
-]
+{
+
+	"wine-red": [
+		{
+			"asin": "B074WN48Y3",
+			"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (M(24in), Wine red)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71nEYr4WDbL._SX425_.jpg",
+			"color": "Wine red",
+			"size": "M(24in)",
+			"price": "$109.99",
+			"offeringID": "NQbh5ejf2MHpn90azAV1%2BUyKKYDzq1HVvpQNyZtOdBcohVhVql%2F7xhwmOXg6IJIoW%2F6%2BEcvOONmOacLvq5yFa9ba5R7pkEbQrDCr05eq53SKMwPOMxATcCtwJ2viX4ILXOcvmuYR8imXNPigVRYKUUvVYbeapnTw"
+		},
+		{
+			"asin": "B074WNMPZ3",
+			"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (L(28in), Wine red)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71rNInuPK5L._AC_SX425_.jpg",
+			"color": "Wine red",
+			"size": "L(28in)",
+			"price": "$139.99",
+			"offeringID": "99osClFg4xKCpZ8%2FrhdIE7xGUTSfzGSwsJFWmzx2pihOYZNilGQBgT2R%2BT519qeYF6MHDonLZbLquHCBi9yUwVTXMQSig9EcvdhwMEIRmSx9j1GMFqMpNiANQych0D%2BO0FFfQbEyl1dU5%2B%2B9nX2NH3peqrTS0V%2Fx"
+		}
+	],
+	"blue": [
+		{
+			"asin": "B074WL99PK",
+			"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (M(24in), Blue)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71zgI5w6MdL._AC_SX425_.jpg",
+			"color": "Blue",
+			"size": "M(24in)",
+			"price": "$109.99",
+			"offeringID": "hWil%2F%2BLkZ4Z2k1xfni8hdMhDCSILpgYjYXuF9AM4kq1BrKYbAA57rJ65eBjH8E1WzHEglKXdjMjcwNifwvMGg4tmhZ4r6eyCnuXpi3Bs6AtH5ig90VRV3MBOTi47LqeyAwYeZ4jFcsKL2TwkqgYJYsDsXSgSjl9J"
+		},
+		{
+			"asin": "B074WQ3WVH",
+			"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (L(28in), Blue)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71zgI5w6MdL._AC_SX425_.jpg",
+			"color": "Blue",
+			"size": "L(28in)",
+			"price": "$139.99",
+			"offeringID": "vhurAEIOuS%2BrSU3yYNtCWeYSHG%2BYgg%2B%2F%2BKKgJVx5REHK8WIh%2FkoTe8X92XAKv4G%2F7sKPxxi4%2Bo6mHnHV0rm5X3JA6Nx7S8tfp5%2FSNcUS4JWO7PSeDoaSpo4MdOkgsZZOrcAYKqQ8P5BWewLna1%2FEsjTsV9aZhtFj"
+		}
+	],
+	"black": [
+		{
+			"asin": "B074WP7VC7",
+			"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (M(24in), Black)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71F7nW0YPSL._AC_SX425_.jpg",
+			"color": "Black",
+			"size": "M(24in)",
+			"price": "$109.99",
+			"offeringID": "XdEYTQZM%2BF%2BYGmHrFLHV5%2BUbnQCd31c4bjHyMcKRGlFTefbj0cX9BudMibEj%2BwLY67wPEOjQtMH2SUk5xRF0KkLNCP9qMycS7Pp%2Fr5IEiHDQMVfDZKqrCHKwKELP9FtOCA4ZrAqw2iV7ehZCOt%2FzQ3VRo%2BQlQRMX"
+		},
+		{
+			"asin": "B074WPGX12",
+			"title": "Coolife Luggage Aluminium Frame Suitcase with TSA Lock 100% PC (L(28in), Black)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71F7nW0YPSL._SX425_.jpg",
+			"color": "Black",
+			"size": "L(28in)",
+			"price": "$139.99",
+			"offeringID": "QexvpHnqr5VMJusaruvUjpdEikUqbq%2BIbVM%2BsPogHNLwg5csdUBoPQxJSJFgQnTHX3d3BhLjuHPFpYYjFNnBTXIhX21NJwgHqmxaGGJQcaFiS2BfDD%2FepP%2FCendSwIr1j0g3krXbxFnNL4aj%2FC2glKviXB6krp%2Bk"
+		}
+	]
+}

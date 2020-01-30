@@ -1,47 +1,57 @@
-[
-	{
-		"asin": "B07CGBK1G4",
-		"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81HgjCuxInL._SX425_.jpg",
-		"color": "Silver Gray",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "hiFttL9UZ041pee6WzYowhM5188hiRXqz%2Br7ER2172wuUCjflkjsywzXXR3ORxM%2BvPoIHzwbOG%2BwcR1jyRtLvQortG5QBU6fqcnzGg%2BIyXP6gmhu5Sc5Vw%2BBu9HHg29AD9%2Fb0ZfVYltrlvLxXj0%2BGagkziowo02k"
-	},
-	{
-		"asin": "B07CGB217N",
-		"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71uSzX1t9mL._SX522_.jpg",
-		"color": "Wine Red",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "%2BgbSdsmb9En8S0eIZjYM6goZ0N9eZnyZuosCLmhAPEp95mSvYS4VW3ufnJvAtuayEiQ61BPnkzLUfcAzjLZ5dPcMwwJl8lbxOR2csZJg2R%2Fl600UbYK5d7529NCyGcQSFoSQS2FfyaTh8SBIPDGppyWrxgveTovo"
-	},
-	{
-		"asin": "B07CG8TLN6",
-		"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81wxy-90npL._SX425_.jpg",
-		"color": "Navy",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "DiqBpGp4I38PBwG6pt1Znnb1dbwp3RhnTigKe3l9u2L1us1GzVuQtFe39jKktR8Yr%2BrTXvgPj%2BBXEUQIBLW4nUTYp1FcnPJdiPt2p34RhAc4YouBF00XJtdDZuR0Gw%2B%2B8x%2BlxwQn9qoNt0R1S5ap1KZo8OOZf4an"
-	},
-	{
-		"asin": "B07CGDZKQN",
-		"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71OeS5Zo12L._AC_SX425_.jpg",
-		"color": "Silver",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "61QtrqsOO9RJS7yUaIsJoCJRIlKFvpzgSajaTGUphzt3RN4tJ8mIJXjOpDBS1zrul9ETytxkaS6c0w0dZl6vtQx%2BLAojmiJYHY9tQb9EE4fgmYSUC0n47gU5qjfo7lkXYJWuJRwytoA0KP%2F70jnZQETmTq0aVUhJ"
-	},
-	{
-		"asin": "B07CGB486Q",
-		"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81z982DEbSL._AC_SX522_.jpg",
-		"color": "Orange",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "qEwAZ%2Fm%2BsTWWAB1KC1PQ%2F5i2VvVtLUq7QTMZsFVFSHjoUlFIZXAigjjsr7fNYDihMXqnFUtOSoH5Pt6ExgF4Pn%2BXX6fRXrIeFAREXjcYuLpMtAgO0Jxyfszzn2rDee6EHbBrdK7A9GS6J9Gj9uYvHDx53CjsbWGN"
-	}
-]
+{
+	"silver-gray": [
+		{
+			"asin": "B07CGBK1G4",
+			"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81HgjCuxInL._SX425_.jpg",
+			"color": "Silver Gray",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "hiFttL9UZ041pee6WzYowhM5188hiRXqz%2Br7ER2172wuUCjflkjsywzXXR3ORxM%2BvPoIHzwbOG%2BwcR1jyRtLvQortG5QBU6fqcnzGg%2BIyXP6gmhu5Sc5Vw%2BBu9HHg29AD9%2Fb0ZfVYltrlvLxXj0%2BGagkziowo02k"
+		}
+	],
+	"wine-red": [
+		{
+			"asin": "B07CGB217N",
+			"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71uSzX1t9mL._SX522_.jpg",
+			"color": "Wine Red",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "%2BgbSdsmb9En8S0eIZjYM6goZ0N9eZnyZuosCLmhAPEp95mSvYS4VW3ufnJvAtuayEiQ61BPnkzLUfcAzjLZ5dPcMwwJl8lbxOR2csZJg2R%2Fl600UbYK5d7529NCyGcQSFoSQS2FfyaTh8SBIPDGppyWrxgveTovo"
+		}
+	],
+	"navy": [
+		{
+			"asin": "B07CG8TLN6",
+			"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81wxy-90npL._SX425_.jpg",
+			"color": "Navy",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "DiqBpGp4I38PBwG6pt1Znnb1dbwp3RhnTigKe3l9u2L1us1GzVuQtFe39jKktR8Yr%2BrTXvgPj%2BBXEUQIBLW4nUTYp1FcnPJdiPt2p34RhAc4YouBF00XJtdDZuR0Gw%2B%2B8x%2BlxwQn9qoNt0R1S5ap1KZo8OOZf4an"
+		}
+	],
+	"silver": [
+		{
+			"asin": "B07CGDZKQN",
+			"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71OeS5Zo12L._AC_SX425_.jpg",
+			"color": "Silver",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "61QtrqsOO9RJS7yUaIsJoCJRIlKFvpzgSajaTGUphzt3RN4tJ8mIJXjOpDBS1zrul9ETytxkaS6c0w0dZl6vtQx%2BLAojmiJYHY9tQb9EE4fgmYSUC0n47gU5qjfo7lkXYJWuJRwytoA0KP%2F70jnZQETmTq0aVUhJ"
+		}
+	],
+	"orange": [
+		{
+			"asin": "B07CGB486Q",
+			"title": "Coolife Luggage Expandable Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner 20in24in28in",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81z982DEbSL._AC_SX522_.jpg",
+			"color": "Orange",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "qEwAZ%2Fm%2BsTWWAB1KC1PQ%2F5i2VvVtLUq7QTMZsFVFSHjoUlFIZXAigjjsr7fNYDihMXqnFUtOSoH5Pt6ExgF4Pn%2BXX6fRXrIeFAREXjcYuLpMtAgO0Jxyfszzn2rDee6EHbBrdK7A9GS6J9Gj9uYvHDx53CjsbWGN"
+		}
+	]
+}

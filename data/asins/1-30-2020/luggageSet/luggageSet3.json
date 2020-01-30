@@ -1,29 +1,35 @@
-[
-	{
-		"asin": "B07C2NJKTH",
-		"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase 20 inch 24 inch 28 inch (wine red)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/810dmQCIFqL._SX425_.jpg",
-		"color": "Wine Red",
-		"size": null,
-		"price": "$149.99",
-		"offeringID": "A2axU7UFtKXf7XS%2BPVscG4hN7Cy0lIOBmESVNmhXGZADmhGac0P9eGnl7Yo%2Bv1iCUuFNj8Ds6%2Bl3zzLTdzb6bZJchCVIvAXPi6RaJDfZaLM7OcV%2F5RtzP6BamFyaWAe%2BX8%2FyL5zESGZqxb6NwPth5Ccf4rWvizKL"
-	},
-	{
-		"asin": "B07C2WKBPL",
-		"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase 20 inch 24 inch 28 inch (green)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71t%2Bf-vNu%2BL._SX425_.jpg",
-		"color": "Green",
-		"size": null,
-		"price": "$149.99",
-		"offeringID": "f90RxTU6FJUX5S5lmH8yw%2F7sfkJiGmL6WtKL9%2Fa4diaIs4SB0505fi9c%2FeUBQnfb%2BsEZ311FAbpK2%2BHTiI5UBOQAH2tPym1qycu5CgYp09R7JNHdMLMBYZyR0NMSuMFfGBA8jIoAOT7LFmGHsLMfk6L65cDP3Edq"
-	},
-	{
-		"asin": "B07CBYWVLZ",
-		"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase 20 inch 24 inch 28 inch (white grid)",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81wuS%2BK7Z8L._AC_SX425_.jpg",
-		"color": "White",
-		"size": null,
-		"price": "$159.99",
-		"offeringID": "m2Rb3zxcZIxydmDKKqjztPFbyNVz3IfOSsNqVbgxsXDxLAqC%2BD2SLocbWFR1eAYGueWP6timSzLYP15mCu%2BEGkXlP4WE83TMKrJsi%2FU7j2ItZyfk%2FkBIF0F2Vu%2BAHgQMampKUAyxl6x%2FiAHt6aqF6eUpw%2F4rDLXe"
-	}
-]
+{
+	"wine-red": [
+		{
+			"asin": "B07C2NJKTH",
+			"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase 20 inch 24 inch 28 inch (wine red)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/810dmQCIFqL._SX425_.jpg",
+			"color": "Wine Red",
+			"size": null,
+			"price": "$149.99",
+			"offeringID": "A2axU7UFtKXf7XS%2BPVscG4hN7Cy0lIOBmESVNmhXGZADmhGac0P9eGnl7Yo%2Bv1iCUuFNj8Ds6%2Bl3zzLTdzb6bZJchCVIvAXPi6RaJDfZaLM7OcV%2F5RtzP6BamFyaWAe%2BX8%2FyL5zESGZqxb6NwPth5Ccf4rWvizKL"
+		}
+	],
+	"green": [
+		{
+			"asin": "B07C2WKBPL",
+			"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase 20 inch 24 inch 28 inch (green)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71t%2Bf-vNu%2BL._SX425_.jpg",
+			"color": "Green",
+			"size": null,
+			"price": "$149.99",
+			"offeringID": "f90RxTU6FJUX5S5lmH8yw%2F7sfkJiGmL6WtKL9%2Fa4diaIs4SB0505fi9c%2FeUBQnfb%2BsEZ311FAbpK2%2BHTiI5UBOQAH2tPym1qycu5CgYp09R7JNHdMLMBYZyR0NMSuMFfGBA8jIoAOT7LFmGHsLMfk6L65cDP3Edq"
+		}
+	],
+	"white": [
+		{
+			"asin": "B07CBYWVLZ",
+			"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase 20 inch 24 inch 28 inch (white grid)",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81wuS%2BK7Z8L._AC_SX425_.jpg",
+			"color": "White",
+			"size": null,
+			"price": "$159.99",
+			"offeringID": "m2Rb3zxcZIxydmDKKqjztPFbyNVz3IfOSsNqVbgxsXDxLAqC%2BD2SLocbWFR1eAYGueWP6timSzLYP15mCu%2BEGkXlP4WE83TMKrJsi%2FU7j2ItZyfk%2FkBIF0F2Vu%2BAHgQMampKUAyxl6x%2FiAHt6aqF6eUpw%2F4rDLXe"
+		}
+	]
+}

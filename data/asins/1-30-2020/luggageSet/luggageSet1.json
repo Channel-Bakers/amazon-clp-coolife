@@ -1,47 +1,57 @@
-[
-	{
-		"asin": "B01GNMMQBY",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71ERPRYMRIL._AC_UX466_.jpg",
-		"color": "Blue",
-		"size": null,
-		"price": "$139.99",
-		"offeringID": "RQGMWOtnCgUKha6lyWJOJsPRkY26idFagxpUbQPb%2F2IiF2Izy4V46X7UD9D4C9Hr09rQlLU%2F48%2FFJ5aDSKiTBVssGub4PVeD%2FQ%2FgL0UEeYv0WDONrx%2BRg7lCSxn5B76UpBXTIjZgowb9PxpJpQwqy6X0L%2BApOyxn"
-	},
-	{
-		"asin": "B073GRY336",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81B2EdRHOeL._UX679_.jpg",
-		"color": "Purple",
-		"size": null,
-		"price": "$129.99",
-		"offeringID": "ETTBYG9n4tqKZ7DvOrsV0aJ24axRvD%2B8RSclnoXt2NneGWNd1jtA2MMisrp73575NWOBfxtrUHRHQgIcBMEmZQS3ymBdoAy1fjwbh4IxVStLcjpS7Ptj1BN1TLJWJaM7OW0NN%2F1797Revpjwo4B6jOre7glrRqsD"
-	},
-	{
-		"asin": "B073GSVW2C",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81bk7xetwqL._AC_UX679_.jpg",
-		"color": "Navy",
-		"size": null,
-		"price": "$139.99",
-		"offeringID": "yFPtIFHbBI8MwRPOE8aaQYRl0ocGtSnGwZj1CZ1R5m%2BbM%2FotQO2ptP8H0Sp7mTZsAyu2SvAj1fHI73hpFq0eKJm86%2B02nmpai6LcGZDNon4y22g%2Bgav7jteXYnNGpG3ae4E5r9WMBlVYwvXWB4ssdAXeGzFdlCCj"
-	},
-	{
-		"asin": "B079ZPLBV8",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81x95xNYaPL._AC_UX466_.jpg",
-		"color": "Dark Green",
-		"size": null,
-		"price": "$139.99",
-		"offeringID": "jND23dWycXKyxCarFnBh2Yz2sMIQZ0F4%2BXN83xbpns%2BWi6PQNakUzBoifd0%2BrMtTYDG%2Bp7MR1IXof0T92WEKER90oQu1tZVg4EJ6mkvrr7ybq2CQSAfpx1%2F8esGQEs3izxsj89zI5WXOUkURj1W6CNsMx1FB%2FU%2FG"
-	},
-	{
-		"asin": "B079ZQQFS7",
-		"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81JWQwAV8hL._UX679_.jpg",
-		"color": "Black",
-		"size": null,
-		"price": "$139.99",
-		"offeringID": "T1E%2BlQk031lu6vx0CxPcGQlvegTbLFptMzZWmVNunxYTqPT%2BK9Onw1yyP2G6kcq%2Fd2MPF1DnzEar%2F%2Fg419fK80tqO6y%2FE6M1OrF708oKaUC6m0OMmtmgmB%2BtCQfNtzorhFu6Q7JikbeWgVu8ebc%2BVDZvZix8gF24"
-	}
-]
+{
+	"blue": [
+		{
+			"asin": "B01GNMMQBY",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71ERPRYMRIL._AC_UX466_.jpg",
+			"color": "Blue",
+			"size": null,
+			"price": "$139.99",
+			"offeringID": "RQGMWOtnCgUKha6lyWJOJsPRkY26idFagxpUbQPb%2F2IiF2Izy4V46X7UD9D4C9Hr09rQlLU%2F48%2FFJ5aDSKiTBVssGub4PVeD%2FQ%2FgL0UEeYv0WDONrx%2BRg7lCSxn5B76UpBXTIjZgowb9PxpJpQwqy6X0L%2BApOyxn"
+		}
+	],
+	"purple": [
+		{
+			"asin": "B073GRY336",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81B2EdRHOeL._UX679_.jpg",
+			"color": "Purple",
+			"size": null,
+			"price": "$129.99",
+			"offeringID": "ETTBYG9n4tqKZ7DvOrsV0aJ24axRvD%2B8RSclnoXt2NneGWNd1jtA2MMisrp73575NWOBfxtrUHRHQgIcBMEmZQS3ymBdoAy1fjwbh4IxVStLcjpS7Ptj1BN1TLJWJaM7OW0NN%2F1797Revpjwo4B6jOre7glrRqsD"
+		}
+	],
+	"navy": [
+		{
+			"asin": "B073GSVW2C",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81bk7xetwqL._AC_UX679_.jpg",
+			"color": "Navy",
+			"size": null,
+			"price": "$139.99",
+			"offeringID": "yFPtIFHbBI8MwRPOE8aaQYRl0ocGtSnGwZj1CZ1R5m%2BbM%2FotQO2ptP8H0Sp7mTZsAyu2SvAj1fHI73hpFq0eKJm86%2B02nmpai6LcGZDNon4y22g%2Bgav7jteXYnNGpG3ae4E5r9WMBlVYwvXWB4ssdAXeGzFdlCCj"
+		}
+	],
+	"dark-green": [
+		{
+			"asin": "B079ZPLBV8",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81x95xNYaPL._AC_UX466_.jpg",
+			"color": "Dark Green",
+			"size": null,
+			"price": "$139.99",
+			"offeringID": "jND23dWycXKyxCarFnBh2Yz2sMIQZ0F4%2BXN83xbpns%2BWi6PQNakUzBoifd0%2BrMtTYDG%2Bp7MR1IXof0T92WEKER90oQu1tZVg4EJ6mkvrr7ybq2CQSAfpx1%2F8esGQEs3izxsj89zI5WXOUkURj1W6CNsMx1FB%2FU%2FG"
+		}
+	],
+	"black": [
+		{
+			"asin": "B079ZQQFS7",
+			"title": "Coolife Luggage 3 Piece Set Suitcase Spinner Hardshell Lightweight TSA Lock 4 Piece Set",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81JWQwAV8hL._UX679_.jpg",
+			"color": "Black",
+			"size": null,
+			"price": "$139.99",
+			"offeringID": "T1E%2BlQk031lu6vx0CxPcGQlvegTbLFptMzZWmVNunxYTqPT%2BK9Onw1yyP2G6kcq%2Fd2MPF1DnzEar%2F%2Fg419fK80tqO6y%2FE6M1OrF708oKaUC6m0OMmtmgmB%2BtCQfNtzorhFu6Q7JikbeWgVu8ebc%2BVDZvZix8gF24"
+		}
+	]
+}

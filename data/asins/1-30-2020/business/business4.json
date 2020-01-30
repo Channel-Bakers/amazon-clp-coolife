@@ -1,38 +1,46 @@
-[
-	{
-		"asin": "B07CVB9M86",
-		"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/81pkiPsV2hL._AC_UX466_.jpg",
-		"color": "Charcoal",
-		"size": null,
-		"price": "$159.99",
-		"offeringID": "5QeG3oqpojfJGk%2F0TL9HWooWtHJwkcJOOMPjcc2gVrftKT9gkHiTJmz6MMZ1B2QSzdJltGeHb2E99embO78nQBX8tjBbWg%2BlvNAuz9Y%2B4LKtCfdOYT3DwQ9P%2BXLcw6Us7kDWQs6%2BGIDCny11DuCKAFyNj9oSE%2B5T"
-	},
-	{
-		"asin": "B07CVCV83G",
-		"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71tZanmKYrL._AC_UX466_.jpg",
-		"color": "Caribbean Blue",
-		"size": null,
-		"price": "$159.99",
-		"offeringID": "wYKxWt6X%2FW1O1gPDbzTNhtGZ5XmxrSGclvyfvh7ZtK4bxNQ3DRlMTABb%2FadgTYCtN0FEL8J20FPAQm9TD8OwyAItdO5p41S1k6edbhwD%2B334UE3NBsNZ%2Ffhm43NAShCHbosPa8Q3ogwAANty%2FsWHUkrP%2F0jLy%2FdY"
-	},
-	{
-		"asin": "B07CVB9M85",
-		"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71r70%2BEA2AL._UX466_.jpg",
-		"color": "Teal",
-		"size": null,
-		"price": "$159.99",
-		"offeringID": "wDfyJTBqdNz9xyzGcaBHDHc0qvHY7ZBV%2BQxYxTL8ShFshWvE7JRaEo9skNjsX%2BvQY7iQx7hwjW4uqJKn%2FyG58NOjJMDos69mRfRwpcPRTEw2ZTXnxefxF8be8G7aqPn13yMw%2FQfH062YK63WisJQ0hbrow8Cv%2FPv"
-	},
-	{
-		"asin": "B07CV91NW3",
-		"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
-		"image": "https://images-na.ssl-images-amazon.com/images/I/71OnwVflfnL._AC_UX466_.jpg",
-		"color": "Radiant Pink",
-		"size": null,
-		"price": "$149.99",
-		"offeringID": "CayULxWmaw7KKFKh4zNXukQmeAx6xvA3J91kBn0Rvf8X96k9imxg8S008o0klBd2%2BOwmn4vi4RQRD1TXbU%2FhiNR8P5i8Y0%2FnWY7Xyt5TJleJKJbv5kXIxM3cGhifZb0uyjLh%2BKUS8%2Fn6ySCXhYKLBWH5zz5xZCJf"
-	}
-]
+{
+	"charcoal": [
+		{
+			"asin": "B07CVB9M86",
+			"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81pkiPsV2hL._AC_UX466_.jpg",
+			"color": "Charcoal",
+			"size": null,
+			"price": "$159.99",
+			"offeringID": "5QeG3oqpojfJGk%2F0TL9HWooWtHJwkcJOOMPjcc2gVrftKT9gkHiTJmz6MMZ1B2QSzdJltGeHb2E99embO78nQBX8tjBbWg%2BlvNAuz9Y%2B4LKtCfdOYT3DwQ9P%2BXLcw6Us7kDWQs6%2BGIDCny11DuCKAFyNj9oSE%2B5T"
+		}
+	],
+	"caribbean-blue": [
+		{
+			"asin": "B07CVCV83G",
+			"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71tZanmKYrL._AC_UX466_.jpg",
+			"color": "Caribbean Blue",
+			"size": null,
+			"price": "$159.99",
+			"offeringID": "wYKxWt6X%2FW1O1gPDbzTNhtGZ5XmxrSGclvyfvh7ZtK4bxNQ3DRlMTABb%2FadgTYCtN0FEL8J20FPAQm9TD8OwyAItdO5p41S1k6edbhwD%2B334UE3NBsNZ%2Ffhm43NAShCHbosPa8Q3ogwAANty%2FsWHUkrP%2F0jLy%2FdY"
+		}
+	],
+	"teal": [
+		{
+			"asin": "B07CVB9M85",
+			"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71r70%2BEA2AL._UX466_.jpg",
+			"color": "Teal",
+			"size": null,
+			"price": "$159.99",
+			"offeringID": "wDfyJTBqdNz9xyzGcaBHDHc0qvHY7ZBV%2BQxYxTL8ShFshWvE7JRaEo9skNjsX%2BvQY7iQx7hwjW4uqJKn%2FyG58NOjJMDos69mRfRwpcPRTEw2ZTXnxefxF8be8G7aqPn13yMw%2FQfH062YK63WisJQ0hbrow8Cv%2FPv"
+		}
+	],
+	"radiant-pink": [
+		{
+			"asin": "B07CV91NW3",
+			"title": "Coolife Luggage Expandable 3 Piece Sets PC+ABS Spinner Suitcase Built-In TSA lock 20 inch 24 inch 28 inch",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71OnwVflfnL._AC_UX466_.jpg",
+			"color": "Radiant Pink",
+			"size": null,
+			"price": "$149.99",
+			"offeringID": "CayULxWmaw7KKFKh4zNXukQmeAx6xvA3J91kBn0Rvf8X96k9imxg8S008o0klBd2%2BOwmn4vi4RQRD1TXbU%2FhiNR8P5i8Y0%2FnWY7Xyt5TJleJKJbv5kXIxM3cGhifZb0uyjLh%2BKUS8%2Fn6ySCXhYKLBWH5zz5xZCJf"
+		}
+	]
+}
