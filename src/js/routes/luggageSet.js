@@ -40,13 +40,13 @@ export default {
 						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
 					active: false,
 				},
-				// {
-				// 	name: 'dark-green',
-				// 	hex: '#1c1c26',
-				// 	image:
-				// 		'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-				// 	active: false,
-				// },
+				{
+					name: 'dark-green',
+					hex: '#1c1c26',
+					image:
+						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+					active: false,
+				},
 				{
 					name: 'black',
 					hex: '#1c1c26',
@@ -93,13 +93,13 @@ export default {
 						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
 					active: false,
 				},
-				// {
-				// 	name: 'lake-blue',
-				// 	hex: '#1c1c26',
-				// 	image:
-				// 		'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-				// 	active: false,
-				// },
+				{
+					name: 'lake-blue',
+					hex: '#1c1c26',
+					image:
+						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+					active: false,
+				},
 			],
 			// dropdowns: [
 			// 	{
@@ -125,13 +125,13 @@ export default {
 				position: 'left',
 			},
 			colors: [
-				// {
-				// 	name: 'wine-red',
-				// 	hex: '#70707a',
-				// 	image:
-				// 		'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-				// 	active: false,
-				// },
+				{
+					name: 'wine-red',
+					hex: '#70707a',
+					image:
+						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+					active: false,
+				},
 				{
 					name: 'green',
 					hex: '#3a3742',
@@ -185,20 +185,20 @@ export default {
 						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
 					active: false,
 				},
-				// {
-				// 	name: 'mustard-yellow',
-				// 	hex: '#3a3742',
-				// 	image:
-				// 		'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-				// 	active: false,
-				// },
-				// {
-				// 	name: 'dark-green',
-				// 	hex: '#1c1c26',
-				// 	image:
-				// 		'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
-				// 	active: false,
-				// },
+				{
+					name: 'mustard-yellow',
+					hex: '#3a3742',
+					image:
+						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+					active: false,
+				},
+				{
+					name: 'dark-green',
+					hex: '#1c1c26',
+					image:
+						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+					active: false,
+				},
 			],
 			// dropdowns: [
 			// 	{
