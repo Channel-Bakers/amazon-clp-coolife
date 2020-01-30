@@ -68,14 +68,10 @@ export default class Dropdown {
 
 		if (OPTIONS_SORTED.length <= 1) {
 			this.elements.select.style.display = 'none';
-
-			return this;
 		}
 
 		try {
 			OPTIONS_SORTED.forEach((option) => {
-				if (!option.size) return;
-
 				const OPTION_ELEMENT = document.createElement('option');
 				OPTION_ELEMENT.value = option.size;
 				OPTION_ELEMENT.innerText = option.size;
