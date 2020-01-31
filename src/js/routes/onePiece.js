@@ -12,9 +12,9 @@ export default {
 		const BUILDER_1_DATA = onePiece1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'onePiece-1',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner and Built-in TSA Lock`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"Quiet airplane spinner wheels and an adjustable 3-level 100%pure aluminum telescoping handle allow you to quickly maneuver in tight spaces and it’s sturdier than most of the telescoping handle on the market.",
 			image: {
 				position: 'left',
 			},
@@ -23,27 +23,27 @@ export default {
 					name: 'charcoal',
 					hex: '#70707a',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71wO9iD0B2L._UX679_.jpg',
 					active: true,
 				},
 				{
 					name: 'caribbean-blue',
-					hex: '#3a3742',
+					hex: '#335b7b',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71bJTym7h5L._AC_UX679_.jpg',
 					active: false,
 				},
 				{
 					name: 'radiant-pink',
-					hex: '#1c1c26',
+					hex: '#91435d',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71Krw3bPNmL._AC_UX679_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner and Built-in TSA Lock`,
 					id: 'onePiece-1',
 					data: BUILDER_1_DATA,
 				},
@@ -58,31 +58,31 @@ export default {
 		const BUILDER_2_DATA = onePiece2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'onePiece-2',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"The suitcase benefits hugely from its ABS+PC hard plastic shell. it goes through insanely strict quality control test standards, creating strong and sturdy pieces that can withstand any forms of rough handling.Please note this luggage is sold separately, but If you intend to buy two or three suitcases, the small suitcase can be stored inside the bigger one.",
 			image: {
 				position: 'right',
 			},
 			colors: [
 				{
 					name: 'white',
-					hex: '#70707a',
+					hex: '#f3f0ef',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71OsqB9Ei1L._AC_SX522_.jpg',
 					active: true,
 				},
 				{
 					name: 'orange',
-					hex: '#3a3742',
+					hex: '#f27d0e',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71NsP6MG5PL._AC_SX522_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner`,
 					id: 'onePiece-2',
 					data: BUILDER_2_DATA,
 				},
@@ -97,24 +97,24 @@ export default {
 		const BUILDER_3_DATA = onePiece3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'onePiece-3',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner and TSA Lock`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"Sturdy ergonomic aluminum telescoping handle system provides fluent and smooth experience. The unique shaped multi-directional silent wheels will not make any noise when being rotated and it’s more durable in structure.",
 			image: {
 				position: 'left',
 			},
 			colors: [
 				{
 					name: 'navy',
-					hex: '#1c1c26',
+					hex: '#334262',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71vmgpVw5kL._AC_SX522_.jpg',
 					active: true,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner and TSA Lock`,
 					id: 'onePiece-3',
 					data: BUILDER_3_DATA,
 				},
@@ -129,38 +129,38 @@ export default {
 		const BUILDER_4_DATA = onePiece4.default;
 		const BUILDER_4_OPTIONS = {
 			target: 'onePiece-4',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Aluminium Frame {{COLOR}} Suitcase with TSA Lock 100% PC`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"Combined with luxury aluminum frame and 100% Germany Bayer PC material, features brushed finishing and grinding process, providing long-lasting usage and shining appearance, It also eliminates the trouble of the protective film can’t be peeled off thoroughly.",
 			image: {
 				position: 'right',
 			},
 			colors: [
 				{
 					name: 'blue',
-					hex: '#70707a',
+					hex: '#283758',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71zgI5w6MdL._AC_SX425_.jpg',
 					active: true,
 				},
 				{
 					name: 'black',
-					hex: '#3a3742',
+					hex: '#333333',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71F7nW0YPSL._AC_SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'wine-red',
-					hex: '#1c1c26',
+					hex: '#541722',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71nEYr4WDbL._SX425_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Aluminium Frame {{COLOR}} Suitcase with TSA Lock 100% PC`,
 					id: 'onePiece-4',
 					data: BUILDER_4_DATA,
 				},

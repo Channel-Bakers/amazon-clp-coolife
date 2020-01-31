@@ -11,45 +11,45 @@ export default {
 		const BUILDER_1_DATA = softside1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'softside-1',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Softshell Lightweight {{COLOR}} 3-Piece Set Suitcase Spinner`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"Worldwide 2 year warranty. Three piece luggage in one set with 20 inch, 24 inch, & 28 inch. Upright, can be stored one into another. Better than polyester material, the luggage is made of 1680D oxford cloth, 210D nylon lining",
 			image: {
 				position: 'left',
 			},
 			colors: [
 				{
 					name: 'blue/silver',
-					hex: '#70707a',
+					hex: '#3b617e',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81r%2BjfGp--L._AC_SX425_.jpg',
 					active: true,
 				},
 				{
 					name: 'black/blue',
-					hex: '#3a3742',
+					hex: '#0f305e',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81H1NGCYtXL._AC_SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'black/red',
-					hex: '#1c1c26',
+					hex: '#aa133d',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81gbgXv6R8L._SX522_.jpg',
 					active: false,
 				},
 				{
 					name: 'purple/silver',
-					hex: '#1c1c26',
+					hex: '#4d2a52',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81h9gvxmRHL._AC_SX425_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Softshell Lightweight {{COLOR}} 3-Piece Set Suitcase Spinner`,
 					id: 'softside-1',
 					data: BUILDER_1_DATA,
 				},
@@ -64,38 +64,38 @@ export default {
 		const BUILDER_2_DATA = softside2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'softside-2',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} Softshell 3 Piece Set Suitcase TSA lock Spinner`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"3 color Jacquard oxford cloth, making the color even richer and looks more three-dimensional. Much better and durable than polyester material. Tough corner protector is built to last.",
 			image: {
 				position: 'right',
 			},
 			colors: [
 				{
 					name: 'black',
-					hex: '#70707a',
+					hex: '#312b32',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/8165qwHF2RL._AC_UX466_.jpg',
 					active: true,
 				},
 				{
 					name: 'navy',
-					hex: '#3a3742',
+					hex: '#304965',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81GR0VhbofL._AC_UX679_.jpg',
 					active: false,
 				},
 				{
 					name: 'brown',
-					hex: '#3a3742',
+					hex: '#523e39',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/8128r%2Bv0OvL._UX466_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Expandable {{COLOR}} Softshell 3 Piece Set Suitcase TSA lock Spinner`,
 					id: 'softside-2',
 					data: BUILDER_2_DATA,
 				},
@@ -110,38 +110,38 @@ export default {
 		const BUILDER_3_DATA = softside3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'softside-3',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} Softshell Suitcase TSA Lock Spinner`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"3 color Jacquard oxford cloth, making the color even richer and looks more three-dimensional. Much better and durable than polyester material. Tough corner protector is built to last.",
 			image: {
 				position: 'left',
 			},
 			colors: [
 				{
 					name: 'navy',
-					hex: '#1c1c26',
+					hex: '#304965',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81o-uXyVaBL._SX425_.jpg',
 					active: true,
 				},
 				{
 					name: 'black',
-					hex: '#3a3742',
+					hex: '#312b32',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71zknWbtJ3L._SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'brown',
-					hex: '#3a3742',
+					hex: '#523e39',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81-MrFNQGRL._SX425_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Expandable {{COLOR}} Softshell Suitcase TSA Lock Spinner`,
 					id: 'softside-3',
 					data: BUILDER_3_DATA,
 				},

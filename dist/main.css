@@ -155,8 +155,7 @@ body {
   padding: 20px 0; }
 
 .coolife-dropdown-details {
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   -ms-flex-align: center;
       align-items: center;
   -ms-flex-pack: start;

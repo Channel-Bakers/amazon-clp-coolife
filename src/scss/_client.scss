@@ -184,7 +184,8 @@ CLIENT_PREFIX {
 		}
 
 		&-details {
-			display: flex;
+			display: none;
+			// display: flex;
 			align-items: center;
 			justify-content: flex-start;
 		}

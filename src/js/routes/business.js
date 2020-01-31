@@ -12,52 +12,52 @@ export default {
 		const BUILDER_1_DATA = business1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'business-1',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"ABS+PC material, durable and lighter hard shell, features textured finish to prevent against scratches. The beveled edge design on the upper part increases toughness for the luggage.",
 			image: {
 				position: 'left',
 			},
 			colors: [
 				{
 					name: 'navy',
-					hex: '#1c1c26',
+					hex: '#1e1f43',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81wxy-90npL._SX425_.jpg',
 					active: true,
 				},
 				{
 					name: 'silver',
-					hex: '#3a3742',
+					hex: '#bebfc1',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71OeS5Zo12L._AC_SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'wine-red',
-					hex: '#1c1c26',
+					hex: '#853139',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71uSzX1t9mL._SX522_.jpg',
 					active: false,
 				},
 				{
 					name: 'silver-gray',
-					hex: '#1c1c26',
+					hex: '#4e484a',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81HgjCuxInL._SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'orange',
-					hex: '#1c1c26',
+					hex: '#ea5333',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81z982DEbSL._AC_SX522_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Expandable {{COLOR}} Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner`,
 					id: 'business-1',
 					data: BUILDER_1_DATA,
 				},
@@ -72,38 +72,38 @@ export default {
 		const BUILDER_2_DATA = business2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'business-2',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `{{COLOR}} Suitcase 2-Piece Set Carry On ABS+PC Spinner Trolley with Pocket Compartment`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"The zipper of main compartment and front pocket compartment can be locked in one TSA locking pad, bring more convenience and safety.",
 			image: {
 				position: 'right',
 			},
 			colors: [
 				{
 					name: 'sakura-pink',
-					hex: '#70707a',
+					hex: '#f3c8bd',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/61N3qQYqjML._AC_SX425_.jpg',
 					active: true,
 				},
 				{
 					name: 'night-navy',
-					hex: '#3a3742',
+					hex: '#959fae',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/61B5VWb6UJL._SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'titanium-gray',
-					hex: '#1c1c26',
+					hex: '#9c9c9a',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71ykV1afpzL._SX425_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `{{COLOR}} Suitcase 2-Piece Set Carry On ABS+PC Spinner Trolley with Pocket Compartment`,
 					id: 'business-2',
 					data: BUILDER_2_DATA,
 				},
@@ -118,46 +118,46 @@ export default {
 		const BUILDER_3_DATA = business3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'business-3',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} Suitcase PC+ABS 3-Piece Set with TSA Lock Spinner`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"Perfect streamlined design, and adopts a variety of internationally latest patented technologies and two-wheel design, which is more smooth, quieter and more durable.",
 			image: {
 				position: 'left',
 			},
 			colors: [
 				{
 					name: 'gray',
-					hex: '#3a3742',
+					hex: '#70707a',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/714do%2BC%2BQNL._SX425_.jpg',
 					active: true,
 				},
 				{
 					name: 'wine-red',
-					hex: '#70707a',
+					hex: '#853139',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71gd5SIOFQL._AC_SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'teal-blue',
-					hex: '#70707a',
+					hex: '#25323a',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71hBzO2FSAL._AC_SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'silver',
-					hex: '#3a3742',
+					hex: '#8a8a90',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71tZKtFxlSL._SX425_.jpg',
 					active: false,
 				},
 				{
 					name: 'purple',
-					hex: '#1c1c26',
+					hex: '#382337',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71W8TmlQtSL._AC_SX425_.jpg',
 					active: false,
 				},
 			],
@@ -178,9 +178,9 @@ export default {
 		const BUILDER_4_DATA = business4.default;
 		const BUILDER_4_OPTIONS = {
 			target: 'business-4',
-			title: `Slim Fit {{COLOR}} Jacket`,
+			title: `Expandable {{COLOR}} 3-Piece Set PC+ABS Spinner Suitcase Built-In TSA lock`,
 			caption:
-				"This modern jacket fabric can dress up a more relaxed outfit pairing it with jeans or cotton pants, or add sophistication to your outfit by pairing it with dress pants.",
+				"The suitcase benefits hugely from its ABS+PC hard plastic shell. it goes through insanely strict quality control test standards, creating strong and sturdy pieces that can withstand any forms of rough handling.",
 			image: {
 				position: 'right',
 			},
@@ -189,34 +189,34 @@ export default {
 					name: 'charcoal',
 					hex: '#70707a',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/81pkiPsV2hL._AC_UX466_.jpg',
 					active: true,
 				},
 				{
 					name: 'teal',
-					hex: '#70707a',
+					hex: '#455056',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71r70%2BEA2AL._UX466_.jpg',
 					active: false,
 				},
 				{
 					name: 'caribbean-blue',
-					hex: '#3a3742',
+					hex: '#004870',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71tZanmKYrL._AC_UX466_.jpg',
 					active: false,
 				},
 				{
 					name: 'radiant-pink',
-					hex: '#1c1c26',
+					hex: '#5a0028',
 					image:
-						'https://images-na.ssl-images-amazon.com/images/I/91euZPBCWbL._AC_UY741_.jpg',
+						'https://images-na.ssl-images-amazon.com/images/I/71OnwVflfnL._AC_UX466_.jpg',
 					active: false,
 				},
 			],
 			dropdowns: [
 				{
-					title: `Slim Fit {{COLOR}} Jacket`,
+					title: `Expandable {{COLOR}} 3-Piece Set PC+ABS Spinner Suitcase Built-In TSA lock`,
 					id: 'business-4',
 					data: BUILDER_4_DATA,
 				},
