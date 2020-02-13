@@ -342,9 +342,9 @@ export default class Builder {
 		BUILDER_CAPTION.classList.add(`${env.clientPrefix}-builder-caption`);
 		BUILDER_CAPTION.innerText = this.params.caption;
 
-		const BUILDER_CAPTION = document.createElement('p');
-		BUILDER_CAPTION.classList.add(`${env.clientPrefix}-builder-sizing`);
-		BUILDER_CAPTION.innerText = this.params.sizing;
+		const BUILDER_SIZING = document.createElement('p');
+		BUILDER_SIZING.classList.add(`${env.clientPrefix}-builder-sizing`);
+		BUILDER_SIZING.innerText = this.params.sizing;
 
 		INFO.appendChild(BUILDER_TITLE);
 		INFO.appendChild(BUILDER_PRICE);

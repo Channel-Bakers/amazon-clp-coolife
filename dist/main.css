@@ -102,6 +102,15 @@ body {
   .coolife-builder-price svg {
     height: 16px; }
 
+.coolife-builder-sizing {
+  color: #636363;
+  line-height: 28px;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+  margin: 8px 0;
+  width: 100%;
+  text-transform: uppercase; }
+
 .coolife-builder-caption {
   color: #919191;
   line-height: 28px;
