@@ -12,9 +12,10 @@ export default {
 		const BUILDER_1_DATA = business1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'business-1',
-			title: `Expandable {{COLOR}} Suitcase PC+ABS 3 Piece Set with TSA Lock Spinner`,
+			title: `The Swift 3-Piece Hardshell Set -- {{COLOR}}`,
 			caption:
-				"ABS+PC material, durable and lighter hard shell, features textured finish to prevent against scratches. The beveled edge design on the upper part increases toughness for the luggage.",
+				'Go from city to city with an ergonomic and stylish luggage set. This set of three with organized interior pockets allows you to bring everything you need to be prepared on your trip.',
+			sizing: 'INCHES H x W x D:  S (22 x 15 x 9),  M (27 x 17 x 11), L (30.5 x 19.5 x 12-14)',
 			image: {
 				position: 'left',
 			},
@@ -72,9 +73,10 @@ export default {
 		const BUILDER_2_DATA = business2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'business-2',
-			title: `{{COLOR}} Suitcase 2-Piece Set Carry On ABS+PC Spinner Trolley with Pocket Compartment`,
+			title: `The Digital Nomad 2-Piece Hardshell Set -- {{COLOR}}`,
 			caption:
-				"The zipper of main compartment and front pocket compartment can be locked in one TSA locking pad, bring more convenience and safety.",
+				'Breeze through security with an easy access, protective compartment for your 15” laptop and pockets for your essentials like pens, notebooks, and phones. Pick from 3 trendy colors in matte designs for a style that suits you.',
+			sizing: 'INCHES H x W x D:  S (21 x 14 x 9.5),  L (28.6 x 20 x 11.9-13.8)',
 			image: {
 				position: 'right',
 			},
@@ -118,9 +120,10 @@ export default {
 		const BUILDER_3_DATA = business3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'business-3',
-			title: `Expandable {{COLOR}} Suitcase PC+ABS 3-Piece Set with TSA Lock Spinner`,
+			title: `The Side Street 3-Piece Hardshell Set -- {{COLOR}}`,
 			caption:
-				"Perfect streamlined design, and adopts a variety of internationally latest patented technologies and two-wheel design, which is more smooth, quieter and more durable.",
+				'Stay on course to make an impression with a stylish diagonal striped hardshell design. Internal straps secure your clothes and an interior divider helps you stay organized.',
+			sizing: 'INCHES H x W x D:  S (22 x 15.2 x 8.9),  M (26.1 x 17.8 x 9.9), L (29.9 x 20.1 x 11.8-13)',
 			image: {
 				position: 'left',
 			},
@@ -178,9 +181,10 @@ export default {
 		const BUILDER_4_DATA = business4.default;
 		const BUILDER_4_OPTIONS = {
 			target: 'business-4',
-			title: `Expandable {{COLOR}} 3-Piece Set PC+ABS Spinner Suitcase Built-In TSA lock`,
+			title: `The Paddle On 3-Piece Hardshell Set -- {{COLOR}}`,
 			caption:
-				"The suitcase benefits hugely from its ABS+PC hard plastic shell. it goes through insanely strict quality control test standards, creating strong and sturdy pieces that can withstand any forms of rough handling.",
+				'Make traveling for work a smooth-sailing experience using a modern luggage set that features a zippered divider and several mesh pockets to stay organized.',
+			sizing: 'INCHES H x W x D:  S (21 x 15 x 8.5),  M (24.5 x 17 x 10), L (29 x 20.5 x 11)',
 			image: {
 				position: 'right',
 			},

@@ -342,12 +342,17 @@ export default class Builder {
 		BUILDER_CAPTION.classList.add(`${env.clientPrefix}-builder-caption`);
 		BUILDER_CAPTION.innerText = this.params.caption;
 
+		const BUILDER_CAPTION = document.createElement('p');
+		BUILDER_CAPTION.classList.add(`${env.clientPrefix}-builder-sizing`);
+		BUILDER_CAPTION.innerText = this.params.sizing;
+
 		INFO.appendChild(BUILDER_TITLE);
 		INFO.appendChild(BUILDER_PRICE);
 
 		DETAILS.appendChild(INFO);
 
 		TARGET.appendChild(DETAILS);
+		TARGET.appendChild(BUILDER_SIZING);
 		TARGET.appendChild(BUILDER_CAPTION);
 
 		if (!isObjectEmpty(this.params.colors)) {

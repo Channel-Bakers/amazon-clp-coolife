@@ -123,6 +123,16 @@ CLIENT_PREFIX {
 			}
 		}
 
+		&-sizing {
+			color: rgb(99, 99, 99);
+			line-height: 28px;
+			font-size: 14px;
+			letter-spacing: 0.4px;
+			margin: 8px 0;
+			width: 100%;
+			text-transform: uppercase;
+		}
+
 		&-caption {
 			color: rgb(145, 145, 145);
 			line-height: 28px;

@@ -11,9 +11,10 @@ export default {
 		const BUILDER_1_DATA = softside1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'softside-1',
-			title: `Softshell Lightweight {{COLOR}} 3-Piece Set Suitcase Spinner`,
+			title: `The Voyager 3-Piece Set -- {{COLOR}}`,
 			caption:
-				"Worldwide 2 year warranty. Three piece luggage in one set with 20 inch, 24 inch, & 28 inch. Upright, can be stored one into another. Better than polyester material, the luggage is made of 1680D oxford cloth, 210D nylon lining",
+				'Two exterior pockets make it easy to quickly access your essential items while a spacious interior compartment creates room to pack all of your belongings.',
+			sizing: 'INCHES H x W x D:  S (23 x 15 x 9.5),  M (28.5 x 17 x 11), L (31.5 x 19 x 14)',
 			image: {
 				position: 'left',
 			},
@@ -64,9 +65,10 @@ export default {
 		const BUILDER_2_DATA = softside2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'softside-2',
-			title: `Expandable {{COLOR}} Softshell 3 Piece Set Suitcase TSA lock Spinner`,
+			title: `The Globetrotter 3-Piece Set with TSA-Locks -- {{COLOR}}`,
 			caption:
-				"3 color Jacquard oxford cloth, making the color even richer and looks more three-dimensional. Much better and durable than polyester material. Tough corner protector is built to last.",
+				'Become a high-roller with the extravagant design of the Globetrotter luggage set. The smallest bag features a laptop compartment with a top-opening zipper to make security quick and simple.',
+			sizing: 'INCHES H x W x D:  S (23 x 14 x 10),  M (27 x 16.5 x 11-13), L (31 x 18 x 12.5-14.5)',
 			image: {
 				position: 'right',
 			},
@@ -110,9 +112,10 @@ export default {
 		const BUILDER_3_DATA = softside3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'softside-3',
-			title: `Expandable {{COLOR}} Softshell Suitcase TSA Lock Spinner`,
+			title: `The Globetrotter Single Suitcase with TSA-Locks (Large) -- {{COLOR}}`,
 			caption:
-				"3 color Jacquard oxford cloth, making the color even richer and looks more three-dimensional. Much better and durable than polyester material. Tough corner protector is built to last.",
+				'The Globetrotter single suitcase stands out and is expandable with an additional 2 inches for more room for all of your belongings.',
+			sizing: 'INCHES H x W x D: (31 x 18 x 12.5)',
 			image: {
 				position: 'left',
 			},

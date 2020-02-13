@@ -132,7 +132,7 @@ export default class Dropdown {
 		CTA.classList.add(`${env.clientPrefix}-select-addToCart`);
 		CTA.setAttribute('data-select-id', this.params.id);
 		CTA.href = '#';
-		CTA.innerText = 'Add to Bag';
+		CTA.innerText = 'Add to Cart';
 
 		this.elements.atc = CTA;
 

@@ -12,9 +12,10 @@ export default {
 		const BUILDER_1_DATA = onePiece1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'onePiece-1',
-			title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner and Built-in TSA Lock`,
+			title: `The Paddle On Suitcase with TSA-Lock -- {{COLOR}}`,
 			caption:
-				"Quiet airplane spinner wheels and an adjustable 3-level 100%pure aluminum telescoping handle allow you to quickly maneuver in tight spaces and it’s sturdier than most of the telescoping handle on the market.",
+				'Featuring several interior mesh pockets and a zippered divider, you can keep your items clean and organized on any trip.',
+			sizing: 'INCHES H x W x D: S (21 x 15 x 8.5),  M (24.5 x 17 x 10), L (29 x 20.5 x 11)',
 			image: {
 				position: 'left',
 			},
@@ -58,9 +59,10 @@ export default {
 		const BUILDER_2_DATA = onePiece2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'onePiece-2',
-			title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner`,
+			title: `The Airwave Suitcase with TSA-Lock -- {{COLOR}}`,
 			caption:
-				"The suitcase benefits hugely from its ABS+PC hard plastic shell. it goes through insanely strict quality control test standards, creating strong and sturdy pieces that can withstand any forms of rough handling.Please note this luggage is sold separately, but If you intend to buy two or three suitcases, the small suitcase can be stored inside the bigger one.",
+				'Land in style and be ready to explore with all of your items in a spacious main compartment and neatly organized zippered pockets.',
+			sizing: 'INCHES H x W x D:  S (22.4 x 15.4 x 8.7),  M (26.4 x 17.3 x 9.8), L (30.3 x 20.5 x 11)',
 			image: {
 				position: 'right',
 			},
@@ -97,9 +99,10 @@ export default {
 		const BUILDER_3_DATA = onePiece3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'onePiece-3',
-			title: `Expandable {{COLOR}} Suitcase with PC+ABS Spinner and TSA Lock`,
+			title: `The Swift Suitcase with TSA-Lock -- {{COLOR}}`,
 			caption:
-				"Sturdy ergonomic aluminum telescoping handle system provides fluent and smooth experience. The unique shaped multi-directional silent wheels will not make any noise when being rotated and it’s more durable in structure.",
+				'Getaway swiftly with this travel companion that features a wide-mesh interior pocket and zippered cloth divider.',
+			sizing: 'INCHES H x W x D:  S (22 x 15 x 9),  M (27 x 15 x 11), L (30.5 x 19.5 x 12-14)',
 			image: {
 				position: 'left',
 			},
@@ -129,9 +132,10 @@ export default {
 		const BUILDER_4_DATA = onePiece4.default;
 		const BUILDER_4_OPTIONS = {
 			target: 'onePiece-4',
-			title: `Aluminium Frame {{COLOR}} Suitcase with TSA Lock 100% PC`,
+			title: `The Luxury Aluminum Suitcase with TSA-Lock -- {{COLOR}}`,
 			caption:
-				"Combined with luxury aluminum frame and 100% Germany Bayer PC material, features brushed finishing and grinding process, providing long-lasting usage and shining appearance, It also eliminates the trouble of the protective film can’t be peeled off thoroughly.",
+				'Designed with extremely lightweight and impact-resistant Germany Bayer Polycarbonate, The Luxury can withstand rough handling and still maintain its glistening sleek shell.',
+			sizing: 'INCHES H x W x D:  S (22.5x 15 x 9),  M (26.5 x 17.9 x 10.6), L (31 x 20.5 x 11.4)',
 			image: {
 				position: 'right',
 			},
