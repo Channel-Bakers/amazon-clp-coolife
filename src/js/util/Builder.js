@@ -158,7 +158,7 @@ export default class Builder {
 			);
 		}
 
-		TITLE.innerText = titleText;
+		TITLE.innerHTML = titleText;
 
 		return TITLE;
 	}

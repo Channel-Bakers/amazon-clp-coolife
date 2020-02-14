@@ -17,9 +17,6 @@ const init = () => {
 		const CURRENT_ROUTE =
 			(window.CB && window.CB.tab) || getCurrentAmazonTab();
 
-		console.log(getCurrentAmazonTab());
-		console.log(env);
-
 		if (CURRENT_ROUTE) {
 			routes[CURRENT_ROUTE].init();
 			routes[CURRENT_ROUTE].finalize();
