@@ -12,7 +12,7 @@ export default {
 		const BUILDER_1_DATA = luggageSet1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'luggageSet-1',
-			title: `The Navigator 3-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Navigator 3-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Get on track to a fun trip with this affordable luggage set featuring a spacious main compartment and a wide internal pocket for better organization.',
 			sizing: 'INCHES H x W x D:  S (22.5x 15.5 x 9.25),  M (26.5 x 18.25 x 10.25), L (30.25 x 20.75 x 11.75)',
@@ -73,7 +73,7 @@ export default {
 		const BUILDER_2_DATA = luggageSet2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'luggageSet-2',
-			title: `The Jetstream 3-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Jetstream 3-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Become a jet-setter with modern taste and luggage with enough room to pack all of your belongings for your next trip.',
 			sizing: 'INCHES H x W x D:  S (22.4x 15.4 x 8.7),  M (26.4 x 17.7 x 9.8), L (30.3 x 20.9 x 11.4-12.6)',	
@@ -120,7 +120,7 @@ export default {
 		const BUILDER_3_DATA = luggageSet3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'luggageSet-3',
-			title: `The Landing Stripe 3-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Landing Stripe 3-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Touch down and be more prepared for you adventured with a full zip interior and several mesh pockets.',
 			sizing: 'INCHES H x W x D:  S (22.4x 15.4 x 8.7),  M (26.4 x 17.3 x 9.8), L (30.3 x 20.1 x 11.8-13)',
@@ -167,7 +167,7 @@ export default {
 		const BUILDER_4_DATA = luggageSet4.default;
 		const BUILDER_4_OPTIONS = {
 			target: 'luggageSet-4',
-			title: `The Runway 3-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Runway 3-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Any runway is your runway with this fashion-forward set featuring a stylish exterior design and several ways to keep your clothes organized with multiple internal pockets.',
 			sizing: 'INCHES H x W x D:  S (21.9x 13.4 x 8.2),  M (26 x 16.9 x 9.7), L (30.3 x 19.7 x 11.5)',

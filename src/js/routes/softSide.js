@@ -11,7 +11,7 @@ export default {
 		const BUILDER_1_DATA = softside1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'softside-1',
-			title: `The Voyager 3-Piece Set -- {{COLOR}}`,
+			title: `The Voyager 3-Piece Set &mdash; {{COLOR}}`,
 			caption:
 				'Two exterior pockets make it easy to quickly access your essential items while a spacious interior compartment creates room to pack all of your belongings.',
 			sizing: 'INCHES H x W x D:  S (23 x 15 x 9.5),  M (28.5 x 17 x 11), L (31.5 x 19 x 14)',
@@ -65,7 +65,7 @@ export default {
 		const BUILDER_2_DATA = softside2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'softside-2',
-			title: `The Globetrotter 3-Piece Set with TSA-Locks -- {{COLOR}}`,
+			title: `The Globetrotter 3-Piece Set with TSA-Locks &mdash; {{COLOR}}`,
 			caption:
 				'Become a high-roller with the extravagant design of the Globetrotter luggage set. The smallest bag features a laptop compartment with a top-opening zipper to make security quick and simple.',
 			sizing: 'INCHES H x W x D:  S (23 x 14 x 10),  M (27 x 16.5 x 11-13), L (31 x 18 x 12.5-14.5)',
@@ -112,9 +112,9 @@ export default {
 		const BUILDER_3_DATA = softside3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'softside-3',
-			title: `The Globetrotter Single Suitcase with TSA-Locks (Large) -- {{COLOR}}`,
+			title: `The Globetrotter Single Suitcase with TSA-Locks (Large) &mdash; {{COLOR}}`,
 			caption:
-				'The Globetrotter single suitcase stands out and is expandable with an additional 2 inches for more room for all of your belongings.',
+				'The Globetrotter single suitcase stands out and is expandable with an additional 2 inches of room for all your belongings.',
 			sizing: 'INCHES H x W x D: (31 x 18 x 12.5)',
 			image: {
 				position: 'left',

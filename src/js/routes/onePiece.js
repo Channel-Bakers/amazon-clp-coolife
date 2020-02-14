@@ -12,7 +12,7 @@ export default {
 		const BUILDER_1_DATA = onePiece1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'onePiece-1',
-			title: `The Paddle On Suitcase with TSA-Lock -- {{COLOR}}`,
+			title: `The Paddle On Suitcase with TSA-Lock &mdash; {{COLOR}}`,
 			caption:
 				'Featuring several interior mesh pockets and a zippered divider, you can keep your items clean and organized on any trip.',
 			sizing: 'INCHES H x W x D: S (21 x 15 x 8.5),  M (24.5 x 17 x 10), L (29 x 20.5 x 11)',
@@ -59,7 +59,7 @@ export default {
 		const BUILDER_2_DATA = onePiece2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'onePiece-2',
-			title: `The Airwave Suitcase with TSA-Lock -- {{COLOR}}`,
+			title: `The Airwave Suitcase with TSA-Lock &mdash; {{COLOR}}`,
 			caption:
 				'Land in style and be ready to explore with all of your items in a spacious main compartment and neatly organized zippered pockets.',
 			sizing: 'INCHES H x W x D:  S (22.4 x 15.4 x 8.7),  M (26.4 x 17.3 x 9.8), L (30.3 x 20.5 x 11)',
@@ -99,9 +99,9 @@ export default {
 		const BUILDER_3_DATA = onePiece3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'onePiece-3',
-			title: `The Swift Suitcase with TSA-Lock -- {{COLOR}}`,
+			title: `The Swift Suitcase with TSA-Lock &mdash; {{COLOR}}`,
 			caption:
-				'Getaway swiftly with this travel companion that features a wide-mesh interior pocket and zippered cloth divider.',
+				'Get away swiftly with this travel companion that features a wide-mesh interior pocket and zippered cloth divider.',
 			sizing: 'INCHES H x W x D:  S (22 x 15 x 9),  M (27 x 15 x 11), L (30.5 x 19.5 x 12-14)',
 			image: {
 				position: 'left',
@@ -132,7 +132,7 @@ export default {
 		const BUILDER_4_DATA = onePiece4.default;
 		const BUILDER_4_OPTIONS = {
 			target: 'onePiece-4',
-			title: `The Luxury Aluminum Suitcase with TSA-Lock -- {{COLOR}}`,
+			title: `The Luxury Aluminum Suitcase with TSA-Lock &mdash; {{COLOR}}`,
 			caption:
 				'Designed with extremely lightweight and impact-resistant Germany Bayer Polycarbonate, The Luxury can withstand rough handling and still maintain its glistening sleek shell.',
 			sizing: 'INCHES H x W x D:  S (22.5x 15 x 9),  M (26.5 x 17.9 x 10.6), L (31 x 20.5 x 11.4)',

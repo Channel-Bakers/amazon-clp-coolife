@@ -12,7 +12,7 @@ export default {
 		const BUILDER_1_DATA = business1.default;
 		const BUILDER_1_OPTIONS = {
 			target: 'business-1',
-			title: `The Swift 3-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Swift 3-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Go from city to city with an ergonomic and stylish luggage set. This set of three with organized interior pockets allows you to bring everything you need to be prepared on your trip.',
 			sizing: 'INCHES H x W x D:  S (22 x 15 x 9),  M (27 x 17 x 11), L (30.5 x 19.5 x 12-14)',
@@ -73,7 +73,7 @@ export default {
 		const BUILDER_2_DATA = business2.default;
 		const BUILDER_2_OPTIONS = {
 			target: 'business-2',
-			title: `The Digital Nomad 2-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Digital Nomad 2-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Breeze through security with an easy access, protective compartment for your 15” laptop and pockets for your essentials like pens, notebooks, and phones. Pick from 3 trendy colors in matte designs for a style that suits you.',
 			sizing: 'INCHES H x W x D:  S (21 x 14 x 9.5),  L (28.6 x 20 x 11.9-13.8)',
@@ -120,7 +120,7 @@ export default {
 		const BUILDER_3_DATA = business3.default;
 		const BUILDER_3_OPTIONS = {
 			target: 'business-3',
-			title: `The Side Street 3-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Side Street 3-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Stay on course to make an impression with a stylish diagonal striped hardshell design. Internal straps secure your clothes and an interior divider helps you stay organized.',
 			sizing: 'INCHES H x W x D:  S (22 x 15.2 x 8.9),  M (26.1 x 17.8 x 9.9), L (29.9 x 20.1 x 11.8-13)',
@@ -181,7 +181,7 @@ export default {
 		const BUILDER_4_DATA = business4.default;
 		const BUILDER_4_OPTIONS = {
 			target: 'business-4',
-			title: `The Paddle On 3-Piece Hardshell Set -- {{COLOR}}`,
+			title: `The Paddle On 3-Piece Hardshell Set &mdash; {{COLOR}}`,
 			caption:
 				'Make traveling for work a smooth-sailing experience using a modern luggage set that features a zippered divider and several mesh pockets to stay organized.',
 			sizing: 'INCHES H x W x D:  S (21 x 15 x 8.5),  M (24.5 x 17 x 10), L (29 x 20.5 x 11)',
