@@ -42,6 +42,6 @@
 		"terser-webpack-plugin": "^2.2.1",
 		"url-polyfill": "^1.1.7",
 		"webpack": "^4.39.3",
-		"webpack-cli": "^3.3.8"
+		"webpack-cli": "^3.3.12"
 	}
 }
